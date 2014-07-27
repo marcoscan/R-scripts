@@ -1,0 +1,5 @@
+Date,TimeOfDay,Type,SubType,Distance,DistanceUnit,Duration
+2013-01-06,19:00:00,corsa,alto,10.0,kilometers,38:00.0
+2013-01-08,18:45:00,corsa,alto,8.0,kilometers,30:00.0
+2013-01-10,07:30:00,corsa,alto,10.0,kilometers,39:00.0
+2013-01-12,19:05:00,corsa,medio,10.0,kilometers,44:00.0

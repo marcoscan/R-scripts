@@ -52,7 +52,7 @@ plot.title = 'Phyllotaxis of the first 3001 digits of π'
 plot.subtitle = ''
   
 p <- ggplot(df, aes(x, y)) + theme_new() +
-  geom_point(size = 1.7, shape = 20, aes(color = pidigits)) + coord_fixed(ratio=1) +
+  geom_point(size = 2.2, shape = 20, aes(color = pidigits)) + coord_fixed(ratio=1) +
   scale_color_manual(values = color_codes, drop=FALSE,
                      labels = c("0    ", "1    ", "2    ", "3    ", "4    ",
                                 "5    ","6    ", "7    ", "8    ", "9    "))  +
